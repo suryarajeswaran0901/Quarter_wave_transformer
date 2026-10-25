@@ -33,11 +33,12 @@ Other equations used:
 ## Waveforms
 
 
+## CASE:01
 
 ![Case 1](test_case_1.png)
 
 
-
+## CASE:02
 
 ![Case 2](test_case_2.png)
 
