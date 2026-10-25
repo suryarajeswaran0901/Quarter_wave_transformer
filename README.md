@@ -31,12 +31,12 @@ Other equations used:
 
 
 
-![Case 1](case1.png)
+![Case 1](test_case_1.png)
 
 
 
 
-![Case 2](case2.png)
+![Case 2](test_case_2.png)
 
 
 
