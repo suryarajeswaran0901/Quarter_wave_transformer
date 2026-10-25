@@ -30,6 +30,9 @@ Other equations used:
 - The transformer is narrowband; a larger Z_L/Z₀ ratio gives a narrower bandwidth.
 
 
+## Waveforms
+
+
 
 ![Case 1](test_case_1.png)
 
